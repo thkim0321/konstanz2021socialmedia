@@ -10,6 +10,17 @@ Welcome to the workshop. You can find workshop materials in this repository.
 ### The first meeting
 - [Instruction slide](Slides/konstanz_intro.pdf)
 
+### Workshop Slides
+- Twitter APIs
+  - [Introduction](Slides/Get_acces_to_Twitter_APIs.pdf)
+  - [Data collection via Twitter APIs](Slides/twitter_api.pdf)
+- [Basic statistics](Slides/konstanz_basic_stats.pdf)
+- [Twitter network](Slides/twitter_network.pdf)
+  - [Basics of network analysis](Slides/intro_network.pdf)
+- [Word cloud from tweets](Slides/wordcloud.pdf)
+- [YouTube](Slides/intro_youtube.pdf)
+
+
 ---
 ## R Preparation
 ### Install R and RStudio
